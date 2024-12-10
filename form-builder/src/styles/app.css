@@ -1,0 +1,21 @@
+.App {
+  font-family: Arial, sans-serif;
+  margin: 20px;
+}
+
+.form-builder {
+  padding: 10px;
+  border: 1px solid #ccc;
+  display: flex;
+  flex-direction: column;
+}
+
+.form-component {
+  margin-bottom: 20px;
+}
+
+.drag-area {
+  padding: 10px;
+  border: 2px dashed #ccc;
+  margin-bottom: 20px;
+}
